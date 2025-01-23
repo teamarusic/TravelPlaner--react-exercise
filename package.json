@@ -1,8 +1,8 @@
 {
+  "homepage": "https://teamarusic.github.io/TravelPlaner--react-exercise",
   "name": "travel-list",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://teamarusic.github.io/react-exercise-travelList",
   "dependencies": {
     "bootstrap": "^5.3.3",
     "cra-template": "1.2.0",
